@@ -18,3 +18,10 @@ function getData() {
     let dayOfWeek = (((CC / 4) - 2 * CC - 1) + ((5 * YY / 4)) + ((26 * (MM + 1) / 10)) + DD) % 7;
     let maleNames = ["Kwasi", "Kwadwo", "Kwabena", "Kwaku", "Yaw", "Kofi", "Kwame"];
     let femaleNames = ["Akosua", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama"];
+    if (gender = "male") {
+        document.getElementById("output").innerHTML = "Your Akan name is " + maleNames[dayOfWeek];
+    }
+    else if (gender = "female") {
+        document.getElementById("output").innerHTML = "Your Akan name is " + femaleNames[dayOfWeek];
+    }
+}
