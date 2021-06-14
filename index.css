@@ -19,3 +19,12 @@ h2{
     color: blueviolet;
     text-decoration: underline;
 }
+img{
+    margin-top: 40px;
+    height:500px;
+    border-radius: 50px;
+}
+.col-5{
+    margin-left: 40%;
+    margin-bottom: 20px;
+}
