@@ -15,3 +15,4 @@ function getData() {
     else if (YY < 0 || YY > 21) {
         alert("Enter a valid year")
     }
+    let dayOfWeek = (((CC / 4) - 2 * CC - 1) + ((5 * YY / 4)) + ((26 * (MM + 1) / 10)) + DD) % 7;
