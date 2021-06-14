@@ -4,9 +4,9 @@
 ## Description
 This project clearly expalins the Ghanian Akan name naming method.This names are given corresponding to your gender and also the day you were born by simply filling in your date of birth AND gender.
 ## Setup/Installation Requirements
-* Clone the repo https://github.com/davidnjungo-lab/My-portfolio.git
+* Clone the repo https://github.com/davidnjungo-lab/Akan-name.git
 ```
-$ git clone 
+$ git clone at https://github.com/davidnjungo-lab/Akan-name.git
 ```
 * Open  the project on VS Code/ your editor of choice
 * Open the project on live server
@@ -14,7 +14,7 @@ $ git clone
 ## Known Bugs
 No known bugs yet.
 ## Technologies Used
-Languages used are purely html and css.
+Languages used are purely Html,CSSand Javascript.
 ## Support and contact details
 If you would like to reach me,contact me through email at davidnjungo3@gmail.com
 ### License
