@@ -28,3 +28,17 @@ img{
     margin-left: 40%;
     margin-bottom: 20px;
 }
+a{
+    color: rgb(153,153,0);
+    font-size:30px ;
+    font-weight: 900;
+}
+.akanname{
+    width:80%;
+    background-color: rgba(19, 49, 102, 0.301);
+    color:whitesmoke;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 10%;
+    color:rgb(153,153,0);
+}
